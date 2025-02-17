@@ -4,4 +4,7 @@ body {
 }
 body .top-navigation__nav-links:hover {
   background-color: aqua;
+}
+body .tekstas {
+  color: blueviolet;
 }/*# sourceMappingURL=styles.css.map */
